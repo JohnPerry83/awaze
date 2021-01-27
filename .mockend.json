@@ -1,12 +1,12 @@
 {
   "Location": {
     "title": "string",
-    "views": "int",
-    "published": "boolean",
+    "id": "int",
     "createdAt": "date",
-    "comments": "Comment[]"
+    "description": "string"
+    "features": "Features[]"
   },
-  "Comment": {
+  "Features": {
     "body": "string",
     "post": "Post"
   }
