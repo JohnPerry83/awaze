@@ -4,9 +4,9 @@
     "id": "int",
     "createdAt": "date",
     "description": "string",
-    "features": "Features[]"
+    "features": "Feature[]"
   },
-  "Features": {
+  "Feature": {
     "body": "string",
     "post": "Post"
   }
