@@ -1,13 +1,9 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  }
+  "data": {
+    "locations": {
+      "title": "string",
+      "thumbnailUrl": "https://via.placeholder.com/150",
+      "imageUrl": "https://via.placeholder.com/200",
+      "description": "string"
+    }
 }
