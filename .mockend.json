@@ -3,7 +3,7 @@
     "title": "string",
     "id": "int",
     "createdAt": "date",
-    "description": "string"
+    "description": "string",
     "features": "Features[]"
   },
   "Features": {
