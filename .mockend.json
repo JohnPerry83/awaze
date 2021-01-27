@@ -1,6 +1,5 @@
 {
-  "data": {
-    "locations": {
+    "Locations": {
       "title": "string",
       "thumbnailUrl": "https://via.placeholder.com/150",
       "imageUrl": "https://via.placeholder.com/200",
